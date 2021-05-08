@@ -1,0 +1,17 @@
+.Module.symvers.cmd
+rpi_gpio.c
+.RPI_GPIO.ko.cmd
+.RPI_GPIO.mod.cmd
+.modules.order.cmd
+.RPI_GPIO.mod.o.cmd
+.RPI_GPIO.o.cmd
+.rpi_gpio.o.cmd
+Module.symvers
+modules.order
+RPI_GPIO.ko
+RPI_GPIO.mod
+RPI_GPIO.mod.o
+RPI_GPIO.o
+rpi_gpio.o
+.vscode/c_cpp_properties.json
+.vscode/settings.json
