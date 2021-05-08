@@ -67,7 +67,7 @@ static struct class *rpi_gpio_class_p = NULL; // sysfs class structure
 static struct cdev rpi_gpio_cdevs[MAX_MINOR_DEVS] = {0};
 
 // ToDo: Check if we need to use the flags commented below,
-//       copied from <raspberry_pi_linux>//drivers/char/mem.c
+//       copied from <raspberry_pi_linux>/drivers/char/mem.c
 static const struct vm_operations_struct rpi_gpio_mmap_ops = {
 #ifdef CONFIG_HAVE_IOREMAP_PROT
     .access = generic_access_phys
