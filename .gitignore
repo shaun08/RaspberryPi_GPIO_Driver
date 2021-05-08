@@ -1,5 +1,5 @@
 .Module.symvers.cmd
-rpi_gpio.c
+.RPI_GPIO.mod.c
 .RPI_GPIO.ko.cmd
 .RPI_GPIO.mod.cmd
 .modules.order.cmd
