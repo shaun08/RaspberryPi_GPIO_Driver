@@ -120,7 +120,7 @@ static int Rpi_Gpio_mmap(struct file *file_p,
     size_t length = vma_p->vm_end - vma_p->vm_start;
     
     // ToDo: check all corner cases for offset as in
-    //       raspi_linux/drivers/char/mem.c
+    //       <raspberry_pi_linux>/drivers/char/mem.c
     //
     // size_t offset = vma_p->vm_pgoff << PAGE_SHIFT;
     
