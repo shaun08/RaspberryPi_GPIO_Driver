@@ -35,7 +35,7 @@ int main()
     return -2;
   }
   
-  //close(fd);
+  close(fd);
   
   return 0;
 }
