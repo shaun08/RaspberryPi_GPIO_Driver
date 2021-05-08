@@ -1,6 +1,7 @@
 #
-# \brief: Makefile to bulid custom GPIO memory device driver for Raspberry Pi 4
+# \brief:  Makefile to bulid custom GPIO memory device driver for Raspberry Pi 4
 # \author: Shaun Prabhu
+# \date:   May 08, 2021
 #
 
 BINARY      := RPI_GPIO
