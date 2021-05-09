@@ -1,7 +1,7 @@
 /*
- * \brief: Testing the custom GPIO memory device driver for Raspberry Pi 4
+ * \brief:  Testing the custom GPIO memory device driver for Raspberry Pi 4
  * \author: Shaun Prabhu
- * \date:     May 08, 2021
+ * \date:   May 08, 2021
  */
 
 #include <fcntl.h>

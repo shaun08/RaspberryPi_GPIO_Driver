@@ -237,4 +237,4 @@ module_init(Rpi_Gpio_init);
 module_exit(Rpi_Gpio_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Shaun Prabhu <shaungp8193@gmail.com>");
+MODULE_AUTHOR("Shaun Prabhu");
