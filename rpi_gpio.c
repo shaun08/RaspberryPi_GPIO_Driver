@@ -1,5 +1,5 @@
 /*
- * \brief: Custom GPIO memory device driver for Raspberry Pi 4
+ * \brief:  Custom GPIO memory device driver for Raspberry Pi 4
  * \author: Shaun Prabhu
  * \date:   May 08, 2021
  */
